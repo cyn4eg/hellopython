@@ -1,2 +1,3 @@
 # hellopython
-mykrestiki
+mykrestik;
+I love : picca : limon : rebenka;
